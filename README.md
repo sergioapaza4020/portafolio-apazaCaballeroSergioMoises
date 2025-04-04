@@ -15,3 +15,6 @@ Este es un portafolio personal diseñado para mostrar información sobre mí, mi
    ```
 2. Abre el archivo `index.html` en tu navegador preferido.
 3. Asegúrate de que la hoja de estilos `css/style.css` y las imágenes necesarias estén correctamente referenciadas.
+
+## Resultado desplegado en Netlify
+[Portafolio - Apaza Caballero Sergio Moises](https://portafolio-apazacaballerosergiomoises.netlify.app)
